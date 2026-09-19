@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "1.1.6",
-  "apkUrl": "https://github.com/lzhdai/road-noise-lab-updates/releases/download/v1.1.6/RoadNoiseLab-1.1.6.apk",
-  "changelog": "三维改为多点手动录音对比声压级和频谱；记录页支持频率声压级、时域波形、频带能量和声谱图。",
-  "sha256": "3e4ae90d4592131ab34c54ff94512b0c17b511142646d743d8e9ad84aa1eaebe",
+  "versionCode": 9,
+  "versionName": "1.1.7",
+  "apkUrl": "https://github.com/lzhdai/road-noise-lab-updates/releases/download/v1.1.7/RoadNoiseLab-1.1.7.apk",
+  "changelog": "频谱加粗并自适应坐标；监测支持A计权和1/3倍频程；时域波形按峰值自适应；记录页支持波形重放。",
+  "sha256": "0a598f1adeefca0c824bd480a731b0313e1b132e93d89508de85d51a90506d85",
   "force": false
 }
