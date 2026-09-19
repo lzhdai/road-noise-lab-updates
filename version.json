@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "1.1.9",
-  "apkUrl": "https://github.com/lzhdai/road-noise-lab-updates/releases/download/v1.1.9/RoadNoiseLab-1.1.9.apk",
-  "changelog": "RNC Test 工作流：两步关/开、历史记录配对、功率平均谱、NR(f) 与频带 NR、OFF/ON 同位置试听。",
-  "sha256": "0a39b105fa5ad9a7e616273de773ec57a9208d9c89182685f6b64833545df767",
+  "versionCode": 12,
+  "versionName": "1.1.10",
+  "apkUrl": "https://github.com/lzhdai/road-noise-lab-updates/releases/download/v1.1.10/RoadNoiseLab-1.1.10.apk",
+  "changelog": "RNC Sweet Spot V1：点测页 3×3 耳旁网格、陀螺仪稳定后自动录关/开、NR 热图与 Effective Coverage、点详情试听。自由点测保留。",
+  "sha256": "5f1aa81ec2b0e81edfe412a886b101a44428b93339cf9c47de666c9fb36f3379",
   "force": false
 }
