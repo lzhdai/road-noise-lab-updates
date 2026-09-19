@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "1.1.7",
-  "apkUrl": "https://github.com/lzhdai/road-noise-lab-updates/releases/download/v1.1.7/RoadNoiseLab-1.1.7.apk",
-  "changelog": "频谱加粗并自适应坐标；监测支持A计权和1/3倍频程；时域波形按峰值自适应；记录页支持波形重放。",
-  "sha256": "0a598f1adeefca0c824bd480a731b0313e1b132e93d89508de85d51a90506d85",
+  "versionCode": 10,
+  "versionName": "1.1.8",
+  "apkUrl": "https://github.com/lzhdai/road-noise-lab-updates/releases/download/v1.1.8/RoadNoiseLab-1.1.8.apk",
+  "changelog": "频谱线宽调到适中；蓝白绿界面统一卡片与 Chip；底栏改为监测/对比/点测/记录/设置。",
+  "sha256": "a49fd43745a536316f3b689dfdcd1cf2207410e8ed1cd9a748678c9f8a311165",
   "force": false
 }
