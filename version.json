@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.1.8",
-  "apkUrl": "https://github.com/lzhdai/road-noise-lab-updates/releases/download/v1.1.8/RoadNoiseLab-1.1.8.apk",
-  "changelog": "频谱线宽调到适中；蓝白绿界面统一卡片与 Chip；底栏改为监测/对比/点测/记录/设置。",
-  "sha256": "a49fd43745a536316f3b689dfdcd1cf2207410e8ed1cd9a748678c9f8a311165",
+  "versionCode": 11,
+  "versionName": "1.1.9",
+  "apkUrl": "https://github.com/lzhdai/road-noise-lab-updates/releases/download/v1.1.9/RoadNoiseLab-1.1.9.apk",
+  "changelog": "RNC Test 工作流：两步关/开、历史记录配对、功率平均谱、NR(f) 与频带 NR、OFF/ON 同位置试听。",
+  "sha256": "0a39b105fa5ad9a7e616273de773ec57a9208d9c89182685f6b64833545df767",
   "force": false
 }
