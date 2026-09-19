@@ -1,0 +1,8 @@
+{
+  "versionCode": 3,
+  "versionName": "1.1.1",
+  "apkUrl": "https://github.com/lzhdai/road-noise-lab-updates/releases/download/v1.1.1/RoadNoiseLab-1.1.1.apk",
+  "changelog": "监测页蓝白绿改版，启动后自动检查并安装更新。",
+  "sha256": "",
+  "force": false
+}
