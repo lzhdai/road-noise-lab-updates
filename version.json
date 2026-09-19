@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "1.1.3",
-  "apkUrl": "https://github.com/lzhdai/road-noise-lab-updates/releases/download/v1.1.3/RoadNoiseLab-1.1.3.apk",
-  "changelog": "监测页滑动不再卡顿；三维扫描改为座舱俯视热力图，点上直接标声级。",
+  "versionCode": 6,
+  "versionName": "1.1.4",
+  "apkUrl": "https://github.com/lzhdai/road-noise-lab-updates/releases/download/v1.1.4/RoadNoiseLab-1.1.4.apk",
+  "changelog": "修复打开三维页闪退（座舱图文字画出画布）。",
   "sha256": "",
   "force": false
 }
