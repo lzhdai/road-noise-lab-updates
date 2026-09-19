@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "1.1.4",
-  "apkUrl": "https://github.com/lzhdai/road-noise-lab-updates/releases/download/v1.1.4/RoadNoiseLab-1.1.4.apk",
-  "changelog": "修复打开三维页闪退（座舱图文字画出画布）。",
-  "sha256": "",
+  "versionCode": 7,
+  "versionName": "1.1.5",
+  "apkUrl": "https://github.com/lzhdai/road-noise-lab-updates/releases/download/v1.1.5/RoadNoiseLab-1.1.5.apk",
+  "changelog": "三维增加30cm尺度标定与追踪质量；A计权；工况标签；时域波形；非UNPROCESSED提示；记录统一校准单位。",
+  "sha256": "8942088118b3aa4e84a7c815aedba97c54e3828142c9827a195721e8bee9d048",
   "force": false
 }
