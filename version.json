@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "1.1.11",
-  "apkUrl": "https://github.com/lzhdai/road-noise-lab-updates/releases/download/v1.1.11/RoadNoiseLab-1.1.11.apk",
-  "changelog": "Sweet Spot 按车内手持放宽稳定判断：发动机/路面振动不再挡住录音；可点「已尽量拿稳，开始录音」。明显换点挪动仍会等待。",
-  "sha256": "7626d9bf7945bd862cace810a146c993653f6320a8027df9af5ad9a77be8c373",
+  "versionCode": 14,
+  "versionName": "1.1.12",
+  "apkUrl": "https://github.com/lzhdai/road-noise-lab-updates/releases/download/v1.1.12/RoadNoiseLab-1.1.12.apk",
+  "changelog": "对比可从全部历史记录选 WAV；录音可自定义名称并带时间戳；监测频谱支持双指缩放与平移；记录页多选对比；Sweet Spot 可选 1/5/9 点或自定义。",
+  "sha256": "43f4522b36b2e203758b18ce3def45b67900f0f6c6f1ea5007012824bfa06b0a",
   "force": false
 }
