@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "1.1.12",
-  "apkUrl": "https://github.com/lzhdai/road-noise-lab-updates/releases/download/v1.1.12/RoadNoiseLab-1.1.12.apk",
-  "changelog": "对比可从全部历史记录选 WAV；录音可自定义名称并带时间戳；监测频谱支持双指缩放与平移；记录页多选对比；Sweet Spot 可选 1/5/9 点或自定义。",
-  "sha256": "43f4522b36b2e203758b18ce3def45b67900f0f6c6f1ea5007012824bfa06b0a",
+  "versionCode": 15,
+  "versionName": "1.1.13",
+  "apkUrl": "https://github.com/lzhdai/road-noise-lab-updates/releases/download/v1.1.13/RoadNoiseLab-1.1.13.apk",
+  "changelog": "记录按测试时间最新在上；多选对比改为任意条数叠加频谱，不再套 A/B；对比页「多条对比」可同时勾选多条录音；车速和测点支持手写。",
+  "sha256": "eb73c262bd86c8c5c726252e421c4525067fbb4b8bf8e00dd1f59c515af8c17e",
   "force": false
 }
