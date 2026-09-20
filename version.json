@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "1.1.14",
-  "apkUrl": "https://github.com/lzhdai/road-noise-lab-updates/releases/download/v1.1.14/RoadNoiseLab-1.1.14.apk",
-  "changelog": "监测页按苹果层级重排：统一标题字重、对齐分区、车速/测点改为紧凑手写框；频谱横坐标不再裁切；声谱图改为深色热力配色并自动对比度。",
-  "sha256": "e0546b0eb6c2bc63757005633198525bb363bc1ec0eac71043adbb7c6f1523c7",
+  "versionCode": 17,
+  "versionName": "1.1.15",
+  "apkUrl": "https://github.com/lzhdai/road-noise-lab-updates/releases/download/v1.1.15/RoadNoiseLab-1.1.15.apk",
+  "changelog": "监测改为苹果分组列表：大标题、inset 分组、分段控件。车速/测点选预设不再写入输入框，自定义可清空且不会被自动填回。",
+  "sha256": "9303c809ce4aa4d01eeeb8537bcc68bfd33eed5051cc2bb15eb794c2772c8fb2",
   "force": false
 }
