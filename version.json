@@ -1,8 +1,8 @@
 {
-  "versionCode": 19,
-  "versionName": "1.1.17",
-  "apkUrl": "https://raw.githubusercontent.com/lzhdai/road-noise-lab-updates/main/RoadNoiseLab-1.1.17.apk",
-  "changelog": "修复应用内更新过慢：安装包改为 GitHub 文件直链，连不上 github.com 时自动换备用地址，连接超时从 15 秒改为 5–8 秒。",
-  "sha256": "2a360af42738da58466338e98d9f5438773902a37479b2c01e9cffde344cb673",
+  "versionCode": 20,
+  "versionName": "1.1.18",
+  "apkUrl": "https://raw.githubusercontent.com/lzhdai/road-noise-lab-updates/main/RoadNoiseLab-1.1.18.apk",
+  "changelog": "点测页加入三维声场：缓慢扫描自动采样，座舱俯视热图与可旋转点云；颜色越暖越响，可看最响/最静点。",
+  "sha256": "881c53d3215d88903377bf247f1fbff4eacc0c44032dbed643bf9269db6c73c8",
   "force": false
 }
