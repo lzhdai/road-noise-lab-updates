@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "1.1.15",
-  "apkUrl": "https://github.com/lzhdai/road-noise-lab-updates/releases/download/v1.1.15/RoadNoiseLab-1.1.15.apk",
-  "changelog": "监测改为苹果分组列表：大标题、inset 分组、分段控件。车速/测点选预设不再写入输入框，自定义可清空且不会被自动填回。",
-  "sha256": "9303c809ce4aa4d01eeeb8537bcc68bfd33eed5051cc2bb15eb794c2772c8fb2",
+  "versionCode": 18,
+  "versionName": "1.1.16",
+  "apkUrl": "https://github.com/lzhdai/road-noise-lab-updates/releases/download/v1.1.16/RoadNoiseLab-1.1.16.apk",
+  "changelog": "新增普通录音测量质量：整段 Leq、Min/Max、Peak、削波率、有效帧与 GOOD/ACCEPTABLE/POOR 结论；记录详情展示校准、输入源和质量说明。",
+  "sha256": "5a10d93875abfeabeeb89a901ff6764069b097cc04be4ee1970649f6ba6d24e8",
   "force": false
 }
