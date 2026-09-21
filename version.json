@@ -1,8 +1,8 @@
 {
-  "versionCode": 18,
-  "versionName": "1.1.16",
-  "apkUrl": "https://github.com/lzhdai/road-noise-lab-updates/releases/download/v1.1.16/RoadNoiseLab-1.1.16.apk",
-  "changelog": "新增普通录音测量质量：整段 Leq、Min/Max、Peak、削波率、有效帧与 GOOD/ACCEPTABLE/POOR 结论；记录详情展示校准、输入源和质量说明。",
-  "sha256": "0752efb82bd5aff12a484fc5540d2d9b10a54116d319d1a4fd61c77f413a847a",
+  "versionCode": 19,
+  "versionName": "1.1.17",
+  "apkUrl": "https://raw.githubusercontent.com/lzhdai/road-noise-lab-updates/main/RoadNoiseLab-1.1.17.apk",
+  "changelog": "修复应用内更新过慢：安装包改为 GitHub 文件直链，连不上 github.com 时自动换备用地址，连接超时从 15 秒改为 5–8 秒。",
+  "sha256": "2a360af42738da58466338e98d9f5438773902a37479b2c01e9cffde344cb673",
   "force": false
 }
